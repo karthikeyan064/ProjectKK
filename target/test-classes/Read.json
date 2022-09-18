@@ -1,0 +1,26 @@
+{
+"name":"karthi",
+"role": "QA",
+"couses":[
+"Java",
+"Selenium",
+"Framework"
+],
+"adderss":{
+"city":"Chennai",
+"state":"Tamilnadu",
+"Country": "India"
+},
+"employee": [
+{
+"name":"Ramesh",
+"id": 20,
+"status":true
+},
+{
+"name":"Bala",
+"id":45,
+"status":false
+}
+]
+}
